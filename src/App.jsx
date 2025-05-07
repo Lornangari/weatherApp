@@ -14,7 +14,7 @@
 import WeatherApp from './components/WeatherApp';
 
 function App() {
-  return <WeatherApp />;
+  return <WeatherApp/>;
 }
 
 export default App;
